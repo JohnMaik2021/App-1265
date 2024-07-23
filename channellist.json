@@ -62,6 +62,6 @@ embedType: "video"
         icon: "img/Pluto TV Nick JR.png",
         options:['https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown'],
 embedType: "video"       
-         },
+    }
         
 }
