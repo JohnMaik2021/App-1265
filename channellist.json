@@ -1,67 +1,66 @@
 {
-    "1": {
-name: "discovery",
-icon: "img/discovery.png",
-options:['https://embedmax.site/tvl/discoverychannel.php',
-'https://reidoscanais.eu/embed/?id=discoverychannel'],
-embedType: "iframe"
+    "1":{
+"name":"discovery",
+"icon":"img/discovery.png",
+"options":["https://embedmax.site/tvl/discoverychannel.php",
+"https://reidoscanais.eu/embed/?id=discoverychannel"],
+"embedType":"iframe"
     },
-    "2": {
-        name: "nickelodeon",
-        icon: "img/nickelodeon.png",
-        options:['https://embedmax.site/tvl/nickelodeon.php',
-        'https://embedmax.site/tvl/nickelodeon2.php',
-        'https://reidoscanais.eu/embed/?id=nickelodeon'],
-embedType: "iframe"
+    "2":{
+        "name":"nickelodeon",
+        "icon":"img/nickelodeon.png",
+        "options":["https://embedmax.site/tvl/nickelodeon.php",
+        "https://embedmax.site/tvl/nickelodeon2.php",
+        "https://reidoscanais.eu/embed/?id=nickelodeon"],
+"embedType":"iframe"
             },
-                "3": {
-        name: "Pluto TV Bob Esponja",
-        icon: "img/Pluto TV Bob Esponja.jpg",
-        options:['https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown'],
-embedType: "video" 
+                "3":{
+        "name":"Pluto TV Bob Esponja",
+        "icon":"img/Pluto TV Bob Esponja.jpg",
+        "options":["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown"],
+"embedType":"video" 
         },
-            "4": {
-        name: "Runtime Ação",
-        icon: "img/Runtime Acao.png",
-        options:['https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552'],
-embedType: "video"     
+            "4":{
+        "name":"Runtime Ação",
+        "icon":"img/Runtime Acao.png",
+        "options":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552"],
+"embedType":"video"     
         },
-                    "5": {
-        name: "Runtime Filmes e Series",
-        icon: "img/Runtime Filmes e Series.png",
-        options:['https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153'],
-embedType: "video"    
+                    "5":{
+        "name":"Runtime Filmes e Series",
+        "icon":"img/Runtime Filmes e Series.png",
+        "options":["https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153"],
+"embedType":"video"    
         },
-                            "6": {
-        name: "Viva Web TV",
-        icon: "img/Viva Web TV.png",
-        options:['https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8'],
-embedType: "video"
+                            "6":{
+        "name":"Viva Web TV",
+        "icon":"img/Viva Web TV.png",
+        "options":["https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/playlist.m3u8"],
+"embedType":"video"
         },
-        "7": {
-        name: "Recor News",
-        icon: "img/Record News.png",
-        options:['https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8',
-'https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown'],
-embedType: "video"       
+        "7":{
+        "name":"Recor News",
+        "icon":"img/Record News.png",
+        "options":["https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8",
+"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown"],
+"embedType":"video"       
 },
-"8": {
-        name: "Xtreme TV",
-        icon: "img/Xtreme TV.png",
-        options:['https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w262218889.m3u8'],
-embedType: "video"        
+"8":{
+        "name":"Xtreme TV",
+        "icon":"img/Xtreme TV.png",
+        "options":["https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w262218889.m3u8"],
+"embedType":"video"        
 },
-        "9": {
-        name: "Pluto TV Cine Familia",
-        icon: "img/Pluto TV Cine Familia.jpeg",
-        options:['https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown'],
-embedType: "video"
+        "9":{
+        "name":"Pluto TV Cine Familia",
+        "icon":"img/Pluto TV Cine Familia.jpeg",
+        "options":["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown"],
+"embedType":"video"
         },
-         "10": {
-        name: "Pluto Nick JR",
-        icon: "img/Pluto TV Nick JR.png",
-        options:['https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown'],
-embedType: "video"       
-    }
-        
+         "10":{
+        "name":"Pluto Nick JR",
+        "icon":"img/Pluto TV Nick JR.png",
+        "options":["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown"],
+"embedType":"video"       
+         }
 }
