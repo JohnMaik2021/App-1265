@@ -1,8 +1,1 @@
-'{
-  "users":[
-    {
-        "site":"GeeksforGeeks",
-        "user": "Shobhit"
-    }
-  ]
-}'
+{"users":[{"site":"GeeksforGeeks","user": "Shobhit"}]}
